@@ -2,5 +2,31 @@
   "pages": [
     "pages/index/index"
   ],
+  "window":{
+    "navigationBarBackgroundColor":"#CCCCCC",
+    "navigationBarTitleText":"GeekMall",
+    "navigationBarTextStyle":"black",
+    "navigationStyle":"custom",
+    "backgroundColor":"#AAAAAA"
+  },
+  "tabBar":{
+    "color": "CCCCCC",
+    "selectedColor":"#FFAAAAAA",
+    "backgroundColor":"#BBAAAA",
+    "list":[
+      {
+        "pagePath":"pages/index/index",
+        "text":"首页"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "我的"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "购物车"
+      }
+    ]
+  },
   "sitemapLocation": "sitemap.json"
 }
