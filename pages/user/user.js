@@ -1,6 +1,6 @@
 
 Page({
   data: {
-    motto: 'Hello World'
+    motto: 'user'
   }
 })
