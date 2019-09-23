@@ -1,6 +1,6 @@
 <view scroll-y class="container" >
   <navigationBar class= "navigationBar"></navigationBar>
-  <scroll-view  style="background-color: #2d8cf0; height: 800px;">
+  <scroll-view  style="background-color: #f8f8f9; height: 800px;">
 
     <view>
       
