@@ -1,9 +1,17 @@
 <view scroll-y class="container" >
   <navigationBar class= "navigationBar"></navigationBar>
   <scroll-view  style="background-color: #f8f8f9; height: 800px;">
+    <view class = ".primary-color">
 
-    <view>
-      
+      <text style="padding: 15px;">热销商品</text>
+      <i-panel >
+        <view style="padding: 15px;">
+          <view>
+            <i-card thumb="https://i.loli.net/2017/08/21/599a521472424.jpg">
+</i-card>
+          </view>
+        </view>
+      </i-panel>
     </view>
   </scroll-view>
   

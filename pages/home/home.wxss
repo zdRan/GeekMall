@@ -23,3 +23,7 @@
 .searchbar-result:before{
     display: none;
 }
+
+.primary-color {
+  color: #2d8cf0
+}

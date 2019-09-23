@@ -2,6 +2,8 @@
   "usingComponents": {
     "navigationBar":"./../navigationBar/navigationBar",
     "i-input":"./../../uiLib/iview/input/index",
-    "i-icon": "../../uiLib/iview/icon/index"
+    "i-icon": "../../uiLib/iview/icon/index",
+    "i-panel": "../../uiLib/iview/panel/index",
+    "i-card": "../../uiLib/iview/card/index"
   }
 }
