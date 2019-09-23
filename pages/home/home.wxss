@@ -1,1 +1,25 @@
 /* pages/home/home.wxss */
+@import "../../uiLib/weui.wxss";
+.margin-tl {
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+.flex-wrp {display: flex;}
+
+.search-input {
+  width: 800px
+}
+
+  
+.searchbar-result{
+    margin-top: 0;
+    font-size: 14px;
+}
+.searchbar-result .weui-cell__bd{
+  padding: 2px 0 2px 20px;
+  color: #666;
+}
+.searchbar-result:before{
+    display: none;
+}

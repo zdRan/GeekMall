@@ -1,0 +1,4 @@
+<view class=".navigationbar-margin" >
+  <i-icon type="shop_fill" size="45" color="#2d8cf0"/>
+  <text style="margin-left:10px;">GeekMall</text>
+</view>

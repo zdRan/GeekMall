@@ -9,11 +9,11 @@
     "navigationBarBackgroundColor":"#f8f8f9",
     "navigationBarTitleText":"GeekMall",
     "navigationBarTextStyle":"black",
-    "navigationStyle":"default",
-    "backgroundColor":"#1c2438"
+    "navigationStyle":"custom",
+    "backgroundColor":"#f8f8f9"
   },
   "tabBar":{
-    "color": "#1c2438",
+    "color": "#495060",
     "selectedColor":"#2d8cf0",
     "backgroundColor":"#f8f8f9",
     "list":[

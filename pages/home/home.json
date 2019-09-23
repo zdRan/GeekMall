@@ -1,3 +1,7 @@
 {
-  "usingComponents": {}
+  "usingComponents": {
+    "navigationBar":"./../navigationBar/navigationBar",
+    "i-input":"./../../uiLib/iview/input/index",
+    "i-icon": "../../uiLib/iview/icon/index"
+  }
 }
